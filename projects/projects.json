@@ -59,4 +59,14 @@
       "code": "https://github.com/priyankagupta2809/NQUEEN"
     }
   },
+  {
+    "name": "Tower of Hanoi",
+    "desc": "The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other.",
+    "image": "Tower of Hanoi",
+    "category": "All Projects",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/priyankagupta2809/TowerOfHanoi"
+    }
+  },
 ]
